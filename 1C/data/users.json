@@ -1,0 +1,22 @@
+{
+    "Иван_Петров": {
+        "password": "76fa43a3e709bd8ce4be25f929d5e417119a6499a1c07cfb9327a221f6aa4eb9$100000$e8bd0ffd54b4a787fb43ffbd9cf533961d66292d7fabbf14ba89619322c5a5d9",
+        "role": "admin",
+        "full_name": "Иван Петров",
+        "email": "ivan.petrov@company.com",
+        "department": "IT",
+        "created": "2024-01-15",
+        "last_login": "2025-12-30T14:00:04.087900",
+        "avatar_color": "#3498db"
+    },
+    "Анна_Сидорова": {
+        "password": "cfc518d4f40ddec4248c4260ea980e9fbb7911faeffa1fea00c31c9518aeb47a$100000$e1925e4a4ddd219ad7f7b11b80abd7eb0f17f9cb36c530ee1e2e2ede59e44ead",
+        "role": "editor",
+        "full_name": "Анна Сидорова",
+        "email": "anna.sidorova@company.com",
+        "department": "Редакция",
+        "created": "2024-02-20",
+        "last_login": "",
+        "avatar_color": "#e74c3c"
+    }
+}
